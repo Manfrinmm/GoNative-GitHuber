@@ -1,0 +1,11 @@
+Edit name:
+  android\app\src\main\res\values\strings.xml
+
+Edit icon:
+  https://apetools.webprofusion.com/#/tools/imagegorilla
+  
+  -Baixa os arquivos e extrai na pasta:
+    android\app\src\main\res
+  -Muda as ferencias (Icon e IconRound) no arquivo AndroidManifest
+
+Edit splash screen:

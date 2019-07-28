@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="uft-8"?>
+
+<resources>
+  <!-- Cor de fundo da splash screen -->
+  <color name="primary">#000</color>
+</resources>
